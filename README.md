@@ -1,3 +1,5 @@
+> ℹ️️ This is a temporary repository used by [Lombiq](https://lombiq.com/)'s [Hastlayer](https://hastlayer.com/) until 1.3.2 is released (see HAST-185). If that's not why you are here, you are better off using the [upstream repository](https://github.com/migueldeicaza/gui.cs).
+
 ![.NET Core](https://github.com/migueldeicaza/gui.cs/workflows/.NET%20Core/badge.svg?branch=master)
 ![Code scanning - action](https://github.com/migueldeicaza/gui.cs/workflows/Code%20scanning%20-%20action/badge.svg)
 [![Version](https://img.shields.io/nuget/v/Terminal.Gui.svg)](https://www.nuget.org/packages/Terminal.Gui)

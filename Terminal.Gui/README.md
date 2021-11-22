@@ -1,6 +1,4 @@
-# Terminal.Gui Project
-
-> ℹ️️ This is a temporary repository used by [Lombiq](https://lombiq.com/)'s [Hastlayer](https://hastlayer.com/) until 1.3.2 is released (see HAST-185). If that's not why you are here, you are better off using the [upstream repository](https://github.com/migueldeicaza/gui.cs).
+# Terminal.Gui Project  
 
 Contains all files required to build the **Terminal.Gui** library (and nuget package).
 
