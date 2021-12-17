@@ -8,4 +8,7 @@
     <Authors>Miguel de Icaza, Charlie Kindel (@tig), @BDisp</Authors>
   </PropertyGroup>
 
+  <ItemGroup> 
+    <Analyzer Remove="@(Analyzer)" /> 
+  </ItemGroup>
 </Project>
